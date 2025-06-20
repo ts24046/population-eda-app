@@ -1,5 +1,6 @@
 streamlit
-pyrebase
-setuptools
+pyrebase4
+pandas
+numpy
 matplotlib
 seaborn
